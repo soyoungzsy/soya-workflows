@@ -1,3 +1,19 @@
+# Soya 规范修复与发布检查
+
+## 0.2.0 候选检查 · 2026-10-18
+
+四份说明包独立重建并移除损坏脚本；可生成报告、通知草稿、文档修改建议和有来源的资料摘要；不冒充原版恢复或自动发送。
+
+实际执行：四份Skill格式、文件链接检查通过；合成输入的实际AI草稿结果见examples/first-use.md，没有外部发送或覆盖。
+
+中英入口按首次接触、不会编程的读者检查用途、第一步、具体输入、预期结果、费用、数据和退出/恢复。已核实的上游作者与许可证保留，不能将灵感说成代码改造。
+
+本节是发布前记录。实际公开、固定版本下载与文件核对必须在发布后追加，不能把本节当作已发布或全部验收证明。真实独立用户测试、跨AI工具的安装发现、真实付费服务联调未因本轮文字或离线测试自动通过；各项目不适用项按公开功能范围说明。全历史隐私的待处理事项另行记录，不作绝对安全保证。
+
+English: Candidate checks cover plain-language onboarding, actual applicable tests, sources and required notices. Publication, actual downloads and file equality must be verified afterward. AI self-review is not independent user testing; unexecuted installation and paid-service integration are not claimed. Historical privacy questions remain separate from current-file checks.
+
+## 以往记录（按当时状态保留）
+
 # Soya 开源规范检查记录
 
 ## 公开更新后的首次读者复查 · 2026-10-18
